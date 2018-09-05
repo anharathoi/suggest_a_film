@@ -24,7 +24,7 @@ One current setback is the amount of time that it takes for our system to return
 
 ## Where to access the program
 
-You can access the sourcecode to the program via (github/pathname/projectname) 
+You can access the sourcecode to the program via https://github.com/anharathoi/suggest_a_film
 
 ---
 
