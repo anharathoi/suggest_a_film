@@ -11,6 +11,11 @@ It is as simple as 1,2,3.
 
 ---
 
+## How to run
+1. Run **bundle** in the terminal to load all the gemfiles
+2. In terminal, run **ruby recommendation_engine.rb**
+3. Enjoy!
+---
 ##   Features
 We used the MovieLens dataset. It is available for free at https://grouplens.org/datasets/movielens and provided in CSV format.  
 
